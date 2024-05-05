@@ -16,7 +16,7 @@
 
 # 1. Objetivo da Modelagem de Banco de Dados:
 
-    Um modelo de banco de dados bem estruturado é crucial para garantir a eficiência, integridade e consistência dos dados em um sistema de gerenciamento de banco de dados (SGBD). Alguns benefícios-chave incluem:
+Um modelo de banco de dados bem estruturado é crucial para garantir a eficiência, integridade e consistência dos dados em um sistema de gerenciamento de banco de dados (SGBD). Alguns benefícios-chave incluem:
     
 1. Consistência de Dados: Define tipos de dados e restrições, evitando inconsistências e erros.
 2. Integridade Referencial: Relacionamentos claros garantem que as chaves estrangeiras mantenham a consistência dos dados relacionados.
